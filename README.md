@@ -1,2 +1,6 @@
 # Sleep-stage-classification
-Kaggle Dreem Competition
+[Kaggle Dreem Competition](https://www.kaggle.com/c/dreem-2-sleep-classification-challenge-2020/overview) 
+
+Rapport (features extraction, ML) disponible en pdf.
+
+[Rank : 12/74](https://www.kaggle.com/c/dreem-2-sleep-classification-challenge-2020/leaderboard)
